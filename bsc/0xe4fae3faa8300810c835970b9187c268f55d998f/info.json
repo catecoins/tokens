@@ -1,1 +1,11 @@
-
+{
+ "name": “Catecoin”,
+ "website": "https://catecoin.com,
+ "description": "Cate a Multidapp first cat-theme token",
+ "explorer": "https://bscscan.com/address/0xe4fae3faa8300810c835970b9187c268f55d998f",
+ "type": "BEP20",
+ "symbol": “CATE”,
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe4fae3faa8300810c835970b9187c268f55d998f"
+}
